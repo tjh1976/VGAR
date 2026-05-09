@@ -165,4 +165,8 @@ Example Uno R3 Board : https://www.amazon.co.uk/UNO-Board-Rev3-ATMEGA328P-CH340G
 Example TTL Board : https://www.amazon.co.uk/CP2102-Serial-Converter-Module-Dupont/dp/B07XRF152K
 (Not one I used - cannot find where I got it, but should work the same)
 
+My Pico Dos (for use loading XEX files via RespecQt : http://www.horus.com/~hias/atari/mypdos-4.06.zip
+
 If you find VGAR useful and would like to support future development, you can buy me a coffee here: https://buymeacoffee.com/tjatarian
+Youtube Video to follow with further information
+
