@@ -94,7 +94,7 @@ Put the device into DFU mode and use Flip to flash Adrino-keyboard-0.3.xex image
 https://github.com/coopermaa/USBKeyboard/blob/master/firmware/Arduino-keyboard-0.3.hex
 
 This makes the Arduino a USB HID passthrough device that can receive HID codes directly from the VGAR python program to control the Atari.
-As the USB on the Arduino has to be connected to the ATARI, HID codes must be sent to it via it's TTL TX/TX interface, 
+As the USB on the Arduino has to be connected to the ATARI, HID codes must be sent to it via it's TTL TX/RX interface, 
 connected to the PC using a basic USB Serial TTL device.
 
 Though standard keyboard signalling will function, some more advanced auto-launch features require an Atari Upgraded with an Ultimate 1MB.
