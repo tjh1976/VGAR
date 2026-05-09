@@ -39,7 +39,7 @@ Good question.  It started with a small DOS batch script to randomly select a ga
 
 The origins of this project started over a year ago, and lapsed somewhat due to other life issues, but more recently I've put in more time to put this stupid thing to bed.
 
-Interested to know what others may get out of this (if anything!), and whether it's used with other upgraded Atari's to make the most of all the features.  Any any all feedback is welcome, and will help me improve the software.
+Interested to know what others may get out of this (if anything!), and whether it's used with other upgraded Atari's to make the most of all the features.  Any and all feedback is welcome, and will help me improve the software.
 
 If you find VGAR useful and would like to support future development, you can buy me a coffee here: https://buymeacoffee.com/tjatarian  
 
