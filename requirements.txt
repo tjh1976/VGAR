@@ -1,0 +1,8 @@
+Pillow
+requests
+pygame
+pyperclip
+psutil
+tinydb
+keyboard
+pyserial
