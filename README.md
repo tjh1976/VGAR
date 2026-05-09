@@ -20,7 +20,7 @@ So this is a 100% hands off front end software loader for an 8 bit Atari.
 
 It is also a full remote keyboard controller, via the USB AKI interface.
 
-If you click the Control button you are presented with an image of an Atari keyboard.  All keys on the keyboard are clickable, and will send the appropriate HID code through the interface to the Atari.  If you want to freehand type text , you can click into the text box at the base, type and click "String Send" to send it.  Alternatively, click "Key Capture" and everything you type will be instantly sent to the Atari (Note if you find issues with this, play with debounce setting in the INI file).  
+If you click the Control button you are presented with an image of an Atari keyboard.  All keys on the keyboard are clickable, and will send the appropriate HID code through the interface to the Atari.  If you want to freehand type text , you can click into the text box at the base, type and click "String Send" to send it.  Alternatively, click "Key Capture" and everything you type will be instantly sent to the Atari until you press the Escape key, which cancels keyboard capture.  (Note if you find issues with speed / key detection, play with debounce setting in the INI file).  
 
 Another small feature left behind from development / debug is a small field that can send HID codes directly to the Atari AKI USB either in decimal eg 29, or hex as eg 0x1D, and get the corresponding character, in this case, Z.  
 
