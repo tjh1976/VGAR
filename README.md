@@ -156,20 +156,43 @@ Run VGAR-Beta-0.1(112).py
 # External Requirements
 
 https://github.com/RespeQt/RespeQt/releases
+
+
 https://www.python.org/downloads/
+
+
 https://retrolemon.co.uk/atari-8bit-upgrades/130-aki-usb-keyboard-interface.html
+
+
 https://docs.arduino.cc/software/ide/
+
+
 https://www.microchip.com/en-us/development-tool/flip
+
+
 https://github.com/arduino/ArduinoCore-avr/blob/master/firmwares/atmegaxxu2/UNO-dfu\_and\_usbserial\_combined.hex
+
+
 https://github.com/coopermaa/USBKeyboard/blob/master/firmware/Arduino-keyboard-0.3.hex
+
+
 Example Uno R3 Board : https://www.amazon.co.uk/UNO-Board-Rev3-ATMEGA328P-CH340G/dp/B0CY9Q7YN2/
+
+
 Example TTL Board : https://www.amazon.co.uk/CP2102-Serial-Converter-Module-Dupont/dp/B07XRF152K
+
 (Not one I used - cannot find where I got it, but should work the same)
+
+
 
 My Pico Dos (for use loading XEX files via RespecQt : http://www.horus.com/\~hias/atari/mypdos-4.06.zip
 
+
+
 If you find VGAR useful and would like to support future development, you can buy me a coffee here: https://buymeacoffee.com/tjatarian
-Youtube Video to follow with further information
+
+
+Beta release video is here : https://youtu.be/xA9\_fyqVZPw
 
 
 
@@ -180,4 +203,14 @@ Youtube Video to follow with further information
 
 
 No sooner had I released this, I notice an annoying regression I had not spotted.  When cycling through random games, the previous games image was left displayed, not the correct one.  Was missing a single call to display the final image.  Now fixed.
+
+
+
+
+
+# VGAR BETA 0.3 Release notes
+
+
+
+This is the version shown on my recent Youtube video, and includes a few changes / minor bug fixes.  Main addition is the "Select" key allowing you to use the slider and arrow keys to select specific games from the random batches.
 
