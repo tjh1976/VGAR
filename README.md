@@ -192,7 +192,7 @@ My Pico Dos (for use loading XEX files via RespecQt : http://www.horus.com/\~hia
 If you find VGAR useful and would like to support future development, you can buy me a coffee here: https://buymeacoffee.com/tjatarian
 
 
-Beta release video is here : \[VGAR Demo Video](https://www.youtube.com/watch?v=xA9\_fyqVZP)
+Beta release video is here : https://www.youtube.com/watch?v=xA9_fyqVZPw
 
 
 
